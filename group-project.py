@@ -7,3 +7,4 @@ answer = myClass + myHouse
 print(answer)
 
 print("this is a simple addition using two values")
+print("This is a good one!")
